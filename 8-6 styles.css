@@ -1,0 +1,18 @@
+h2 {
+    padding: 20px;
+    font-size: 30px;
+}
+
+.box-one, .box-three, .box-five {
+  background: #FA987D;
+}
+
+.box-two, .box-four h2 {
+  background: #72CCA7;
+}
+
+
+
+
+
+

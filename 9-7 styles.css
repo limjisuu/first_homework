@@ -1,0 +1,27 @@
+body {
+    margin: 50px 0;
+    text-align: center;
+}
+
+h1 {
+  font-family: 'Noto Sans KR', sans-serif;
+  margin: 0;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+img {
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.photo_links {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}

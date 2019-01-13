@@ -1,0 +1,88 @@
+@font-face {
+    src: url("../fonts/BMJUA_otf.otf");
+    font-family: "Jua";
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "Jua";
+}
+
+body{
+    background-color: #F0E8D9;
+}
+
+#big_title {
+    margin-top: 75px;
+    margin-bottom: 30px;
+    font-size: 64px;
+    text-align: center;
+    color: #58595B;
+}
+
+#small_title {
+    font-size: 32px;
+    text-align: center;
+    color: #58595B;
+    margin-bottom: 75px;
+}
+
+.food {
+    width: 630px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.image {
+    width: 300px;
+    height: 200px;
+    margin-top: 50px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+.text {
+    background-color: white;
+    width: 300px;
+    color: #58595B;
+    border-radius: 0px 0px 10px 10px;
+
+    padding: 20px;
+}
+
+.food_name {
+    text-align: center;
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.food_explain {
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+
+.order {
+    color: #0000EE;
+    font-size: 16px;
+    text-align: center;
+
+}
+
+#chicken {
+    float: left;
+    margin-right: 30px;
+}
+
+#sushi {
+    float: left;
+}
+
+#burger {
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+}
+
+#bibimbap {
+    float: left;
+    margin-bottom: 50px;
+}
